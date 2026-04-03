@@ -15,4 +15,8 @@ git config --global user.name: "O comando git config --global user.name "Seu Nom
 git branch -M: "Este comando é muito utilizado no início de projetos para renomear o branch padrão local (que às vezes é criado como master) para main (ex: git branch -M main), seguindo as convenções modernas de nomenclatura."
 
 git remote add origin: "O comando
-git remote add origin <url> serve para vincular seu repositório Git local a um servidor remoto. Ele cria um "apelido" chamado origin para a URL do repositório, facilitando o envio (push) e a recepção (pull) de código. 
+git remote add origin <url> serve para vincular seu repositório Git local a um servidor remoto. Ele cria um "apelido" chamado origin para a URL do repositório, facilitando o envio (push) e a recepção (pull) de código.
+
+git push: Envia os arquivos para o github.
+
+git checkout -b "Nome da nova branch": O comando serve para criar novas branchs.
